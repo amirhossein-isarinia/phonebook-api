@@ -1,0 +1,3 @@
+Changes: nano main.py
+run venv: source .venv/bin/activate
+run: fastapi dev main.py
